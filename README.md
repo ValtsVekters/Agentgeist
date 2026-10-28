@@ -60,8 +60,8 @@ You get a judgment back immediately: the action the tick called for, a 0–1 sco
 
 
 
-## Requirements
-- **Required:** API used
+## Resources
+- [AWS Hackathon Link](https://youdotcom-oss.github.io/halloween-hack-2026/#8-how-you-are-scored)
 
 ## Requirements
 - **Required:** API used
