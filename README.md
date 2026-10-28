@@ -1,4 +1,4 @@
-# Agentgeist
+# AgentGeist
 
 ## Description:
 Hackathon AWS
@@ -62,6 +62,11 @@ You get a judgment back immediately: the action the tick called for, a 0–1 sco
 
 ## Resources
 - [AWS Hackathon Link](https://youdotcom-oss.github.io/halloween-hack-2026/#8-how-you-are-scored)
+
+##### Partner onboarding links (start here):
+- You.com: sign up at [link](https://you.com/home) — you get a starter credit when you sign up. If you burn through it, ask the You.com folks at the organizers' table and they'll top you up.
+- CrewAI: official quickstart — [link](https://docs.crewai.com/v1.13.0/en/quickstart)
+- One: event setup page — [link](https://hackathon.withone.ai/sf-halloween-2026)
 
 ## Requirements
 - **Required:** API used
