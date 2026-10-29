@@ -1,7 +1,8 @@
 # AgentGeist
 
 ## Description:
-Hackathon AWS
+**Hackathon AWS:** 
+A supervised multi-agent tactical command center coordinates real-time paranormal containment across AWS Builder Loft SF (aws-builder-loft-sf).
 
 ### Track 1 — The Exorcism Protocol
 The brief: 
@@ -69,5 +70,5 @@ You get a judgment back immediately: the action the tick called for, a 0–1 sco
 - One: event setup page — [link](https://hackathon.withone.ai/sf-halloween-2026)
 - Parasail [link](https://platform.parasail.io/home)
 
-## Requirements
-- **Required:** API used
+## Result
+- **Contributing Individuals:** 4 team members, all generated separate projects the best one was selected to submit for the Team. Track 1 was chosen for this specific Hackathon.
